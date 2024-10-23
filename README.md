@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Lobbyist Management System is a Python application designed to manage and retrieve information about lobbyists, their employers, clients, and compensation details. The application interacts with a database to perform various operations, such as adding lobbyist information, querying details, and tracking their years of registration.
+The Chicago Lobbyist Database-App is a Python application designed to manage and retrieve information about lobbyists, their employers, clients, and compensation details. The application uses N-Tier design to interact with a database to perform various operations, such as adding lobbyist information, querying details, and tracking their years of registration.
 
 ## Features
 
